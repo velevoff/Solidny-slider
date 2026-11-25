@@ -1,3 +1,3 @@
 # Solidny-slider
  
-https://danon77.github.io/Solidny-slider/
+https://velevoff.github.io/Solidny-slider/
